@@ -5,7 +5,7 @@
 
 class MarblesBoard:
     '''
-    Class representing an array of numbers to be sorted.
+    Class representing an array of sequential numbers to be sorted.
     Methods for switching the first two numbers in array and
     for rotating the first number to back of array.
     '''
